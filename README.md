@@ -31,7 +31,7 @@ ChronoTheraAtlas/
 │   ├── rhythmic_genes/                  # 63 per-tissue rhythmic gene tables
 │   └── *.csv                           # MetaCycle/cosinor fit results
 │
-├── 📁 webapp/                          # Flask webserver (local deployment)
+├── 📁 local_server/                          # Flask webserver (local deployment)
 │   ├── app.py                          # Main server (504 lines)
 │   ├── templates/index.html            # HTML template
 │   └── static/                         # Static assets
